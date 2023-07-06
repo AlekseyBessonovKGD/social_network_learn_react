@@ -1,0 +1,7 @@
+.Posts {
+  grid-area: content;;
+}
+
+.Posts img {
+  width: 50px;
+}
